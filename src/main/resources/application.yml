@@ -1,0 +1,13 @@
+chatgpt:
+  token:
+  chat-model: gpt-3.5-turbo
+  session-expiration-time: 10
+server:
+  port: 8081
+
+
+youdao:
+  app-key:
+  app-secret:
+  from: auto
+  to: zh-CHS
